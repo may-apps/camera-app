@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">camera</string>
+    <string name="take_photo">Photo</string>
+    <string name="start_capture">Firebase</string>
+</resources>
